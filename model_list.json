@@ -1,0 +1,8 @@
+{
+  "model_list": [
+    {
+      "model_id": "jwj-med-qwen",
+      "model": "https://pasindudj.github.io/webllm-med-chatbot-model/"
+    }
+  ]
+}
